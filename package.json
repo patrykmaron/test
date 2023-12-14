@@ -1,0 +1,27 @@
+{
+  "name": "apify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "airtable": "^0.12.1",
+    "async": "^3.2.4",
+    "aws-sdk": "^2.1391.0",
+    "axios": "^1.4.0",
+    "cal-heatmap": "^4.2.3",
+    "cheerio": "^1.0.0-rc.12",
+    "csv-writer": "^1.6.0",
+    "https-proxy-agent": "^7.0.2",
+    "node-fetch": "^2.6.12",
+    "puppeteer": "^20.5.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-recaptcha": "^3.6.8",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
